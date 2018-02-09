@@ -15,7 +15,8 @@ http://mfdonline.bps.go.id/
 http://mfdonline.bps.go.id/
 
 # Cara menggunakan
-Jalankan `Parser.java` dan tunggu sampai proses pengambilan data selesai. Hasil pengambilan data akan diletakkan di `output.yml`
+Jalankan `Parser.java` dan tunggu sampai proses pengambilan data selesai. Hasil pengambilan data akan diletakkan di `output.yml`. Kode dibangun dengan menggunakan IDE Netbeans.
 
 # How to use
-Run `Parser.java` and wait until the proccess is done. The result is written at `output.yml`.
+Run `Parser.java` and wait until the proccess is done. The result is written at `output.yml`. Code is built using Netbeans IDE.
+
